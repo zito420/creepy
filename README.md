@@ -18,7 +18,7 @@ This is a simple CLI tool for encrypting and decrypting files using the Fernet s
 
 3. Run Creepy:
 
-    python cree.py
+     `python cree.py`
 
 4. Follow the instructions. You will be prompted to enter your secure password for both encryption and decryption processes.
 
